@@ -1,0 +1,21 @@
+{
+  "name": "scss-lfx-nipponcolor",
+  "version": "0.1.0",
+  "homepage": "https://github.com/andypinet/nipponcolor",
+  "authors": [
+    "lingbaichao <lingbaichao@yingle.com>"
+  ],
+  "description": "nipponcolor sass variables",
+  "main": "stylesheet/_nipponcolor.scss",
+  "keywords": [
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
